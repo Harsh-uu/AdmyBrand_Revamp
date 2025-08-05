@@ -2,7 +2,7 @@
 
 A modern, professional landing page for ADmyBRAND - an omnichannel advertising platform that connects marketers with various media channels.
 
-![ADmyBRAND Preview](https://via.placeholder.com/800x400?text=ADmyBRAND+Homepage)
+![ADmyBRAND Logo](/public/web_logo.svg)
 
 ## Features
 
